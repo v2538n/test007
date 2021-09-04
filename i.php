@@ -1,6 +1,1 @@
-<?php
-	
-	phpinfo();
-
-	echo "test";
-?>
+test
